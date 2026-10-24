@@ -1,0 +1,36 @@
+/* Generated from tokens.json. Keep the two in step. */
+:root {
+  --primary: #2F3BA2;
+  --primary-hover: #252F87;
+  --primary-wash: #ECEEFB;
+  --primary-ink: #1F2878;
+  --accent: #E8A33D;
+  --accent-wash: #FDF3E3;
+  --ink: #12152B;
+  --ink-soft: #3D4260;
+  --muted: #6A6F88;
+  --background: #F6F7FB;
+  --surface: #FFFFFF;
+  --line: #E3E5EF;
+  --line-strong: #C9CDDD;
+  --success: #157A55;
+  --success-wash: #E3F4EC;
+  --warning: #9A5B00;
+  --warning-wash: #FDF1DE;
+  --danger: #C0353F;
+  --danger-wash: #FBE9EA;
+  --on-primary: #FFFFFF;
+
+  --sans: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+
+  --radius-s: 8px;
+  --radius-m: 12px;
+  --radius-l: 18px;
+  --shadow-card: 0 1px 2px rgba(18,21,43,0.04), 0 2px 8px rgba(18,21,43,0.04);
+  --shadow-float: 0 12px 36px rgba(18,21,43,0.16);
+  --sidebar: 256px;
+  --content: 900px;
+  --bottom-nav: 64px;
+  --touch: 44px;
+}

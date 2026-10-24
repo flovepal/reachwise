@@ -1,0 +1,17 @@
+# Secrets and machine-specific files: never upload these
+backend/.env
+.env
+backend/windows/ngrok.yml
+backend/windows/ngrok.exe
+backend/windows/settings.local.bat
+
+# Generated
+.venv/
+backend/.venv/
+__pycache__/
+.pytest_cache/
+backend/logs/
+*.log
+web/node_modules/
+web/dist/
+backend/web/

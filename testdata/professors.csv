@@ -1,0 +1,66 @@
+#,Professor,Email,Research Area
+1,Pu-Jen Cheng,pjcheng@csie.ntu.edu.tw,"Web Mining, Information Retrieval, Multimedia Databases"
+2,Yung-Yu Chuang,cyy@csie.ntu.edu.tw,"Computer Graphics, Computer Vision, Digital Visual Effects, Multimedia Systems"
+3,Yi-Ping Hung,hung@csie.ntu.edu.tw,"Computer Vision, Pattern Recognition, Image Processing, VR, Multimedia Technology, HCI"
+4,Chih-Wen Hsueh,cwhsueh@csie.ntu.edu.tw,"Real-Time Systems, Operating Systems, Blockchain"
+5,Shou-De Lin,sdlin@csie.ntu.edu.tw,"Machine Learning, Data Mining, Knowledge Discovery, NLP, AI, Social Network Analysis"
+6,Kate Lin (???),katelin@csie.ntu.edu.tw,Not specified
+7,Ming-Sui Lee,mslee@csie.ntu.edu.tw,"Multimedia Image Processing, Image Mosaicking, Compression, Signal Processing"
+8,Chi-Sheng Shih,cshih@csie.ntu.edu.tw,"Real-Time Systems, Scheduling, Resource Management, Embedded Systems"
+9,Jia-Ling Wu,wjl@cmlab.csie.ntu.edu.tw,"DSP, Data Compression, Multimedia Systems, Error-Correcting Codes"
+10,Wen-Huang Cheng,wenhuang@csie.ntu.edu.tw,"AI, Multimedia, Computer Vision, Machine Learning, Fintech"
+11,Phone Lin,plin@csie.ntu.edu.tw,"Wireless Networks, Wireless Internet, Performance Modeling"
+12,Shang-Tse Chen,stchen@csie.ntu.edu.tw,"Machine Learning, Security, Algorithmic Game Theory, Data Mining"
+13,Hsu-Chun Hsiao,hchsiao@csie.ntu.edu.tw,"Network Security, Applied Cryptography, Future Networks"
+14,Ruey-Feng Chang,rfchang@csie.ntu.edu.tw,"Medical Image CAD, Image/Video Processing, Multimedia Systems"
+15,Kun-Mao Chao,kmchao@csie.ntu.edu.tw,"Algorithms, Computational Biology, Bioinformatics"
+16,Hsin-Hsi Chen,hhchen@csie.ntu.edu.tw,"NLP, Information Retrieval, Web Mining"
+17,Bing-Yu Chen,robin@ntu.edu.tw,"Computer Graphics, HCI, Image Processing, Multimedia Systems"
+18,Mike Yen-Yang Chen,mikechen@csie.ntu.edu.tw,"HCI, Mobile Computing, Cloud Computing, Ubiquitous Computing"
+19,Lung-Pan Cheng,lung-pan.cheng@csie.ntu.edu.tw,"HCI, AR/VR, Haptics"
+20,Cheng-Fu Chou,ccf@csie.ntu.edu.tw,"Distributed Multimedia Systems, P2P Computing, Wireless Networks"
+21,Chu-Song Chen,chusong@csie.ntu.edu.tw,"Deep Learning, Computer Vision, Machine Learning, Medical Imaging"
+22,Yun-Nung Chen,yvchen@csie.ntu.edu.tw,"Language Understanding, Dialogue Systems, NLP"
+23,Chiou-Shann Fuh,fuh@csie.ntu.edu.tw,"Computer Vision, Digital Image Processing, Digital Cameras"
+24,Shih-Hao Hung,hungsh@csie.ntu.edu.tw,"Computer Architecture, Parallel Computing, Embedded Systems"
+25,Winston H. Hsu,whsu@ntu.edu.tw,"Machine Learning, Computer Vision, Photo/Video Retrieval, Recognition"
+26,Chung-Wei Lin,cwlin@csie.ntu.edu.tw,"Cyber-Physical Systems, Intelligent Vehicles, Security"
+27,Hsuan-Tien Lin,htlin@csie.ntu.edu.tw,"Machine Learning, Data Mining, Information Theory"
+28,Jonathan Lee,jlee@csie.ntu.edu.tw,"Software Engineering, Service-Oriented Computing"
+29,Yen-Huan Li,yenhuan.li@csie.ntu.edu.tw,"Machine Learning, Optimization, Statistics, Quantum Information"
+30,Shih-wei Liao,liao@csie.ntu.edu.tw,"Blockchain, Big Data, Fintech, Compilers"
+31,Chih-Jen Lin,cjlin@csie.ntu.edu.tw,"Machine Learning, Data Mining, Optimization"
+32,Pangfeng Liu,pangfeng@csie.ntu.edu.tw,"Parallel Processing, Algorithm Design"
+33,Hsueh-I Lu,hil@csie.ntu.edu.tw,"Algorithms, Graph Theory"
+34,Yuh-Dauh Lyuu,lyuu@csie.ntu.edu.tw,"Computation Theory, Financial Computation, Parallel Computation"
+35,Yen-Jen Oyang,yjoyang@csie.ntu.edu.tw,"Bioinformatics, Knowledge Engineering, Machine Learning"
+36,Ai-Chun Pang,acpang@csie.ntu.edu.tw,"5G/6G Networks, Edge Intelligence, IoT"
+37,Hsin-Mu Tsai,hsinmu@csie.ntu.edu.tw,"Vehicular Wireless Communications, Sensor Networks, Network Security"
+38,Chia-Lin Yang,yangc@csie.ntu.edu.tw,"Embedded Systems, Processor Architecture, Storage Systems"
+39,Shih-Wei Li,shihwei@csie.ntu.edu.tw,"Operating Systems, Computer Security, Architecture, Formal Verification"
+40,Fang-Jing Wu,fangjing@csie.ntu.edu.tw,"Mobile Computing, Wireless Networks, AI, Privacy-Preserving Techniques"
+41,Chun-Yi Lee,cylee@csie.ntu.edu.tw,"Robotics, Reinforcement Learning, Computer Vision, Parallel Computing"
+42,Shang-En Huang,sehuang@csie.ntu.edu.tw,"Graph Algorithms, Parallel/Distributed Graph Algorithms"
+43,Tsung-Wei Ke,twke@csie.ntu.edu.tw,"Computer Vision, Robot Learning, Machine Learning"
+44,Yuan-Hao Chang,johnson@csie.ntu.edu.tw,"Computer Systems, Architecture, Embedded Systems, OS, Storage"
+45,Shao-Yuan Lo,sylo@csie.ntu.edu.tw,"Trustworthy AI, Multimodal Machine Learning"
+46,Shan-Yuan Teng,tengshanyuan@csie.ntu.edu.tw,"HCI, Haptics, Wearable Devices, Assistive Technology"
+47,Shih-Hsin Wang,shwang@csie.ntu.edu.tw,"Machine Learning, Deep Learning, Generative Models, AI for Science"
+48,Yi-Chi Liao,yichi@csie.ntu.edu.tw,"Human-AI Interaction, Computational Design, Reinforcement Learning, Optimization"
+49,Bao-Yi Huang,phuang@cc.ee.ntu.edu.tw,Not specified
+50,Ming-Hsien Chen,mschen@cc.ee.ntu.edu.tw,Not specified
+51,Hung-Ming Chen,homer@cc.ee.ntu.edu.tw,Not specified
+52,Wan-Jun Liao,wjliao@cc.ee.ntu.edu.tw,Not specified
+53,Shao-Yi Chien,sychien@cc.ee.ntu.edu.tw,Not specified
+54,Hung-Yi Lee,hungyilee@ntu.edu.tw,"Spoken Language Understanding, Speech Recognition"
+55,Jane Yung-Jen Hsu,yjhsu@csie.ntu.edu.tw,"Intelligent Multi-Agent Systems, Data Mining, Service-Oriented Computing, Web Technology"
+56,Tei-Wei Kuo,ktw@csie.ntu.edu.tw,"Real-Time Systems, Embedded Systems, Operating Systems, Storage"
+57,LS Lee,lslee@cc.ee.ntu.edu.tw,Not specified
+58,Ming Ouhyoung,ming@csie.ntu.edu.tw,"Computer Graphics, Virtual Reality, Graphical User Interface"
+59,Ju-Chun Ko,juchunko@ntu.edu.tw,Not specified
+60,Jing-Yao Lin,jinyao.lin@gmail.com,Not specified
+61,Li-Chen Fu,lichen@ntu.edu.tw,"Robotics, Smart Home, VR, Vision Applications, Control"
+62,Hsuan-Cheng Huang,hch@csie.ntu.edu.tw,"Bioinformatics, Computational Biology, Biomedical Data Science"
+63,Yufeng Jane Tseng,yjtseng@csie.ntu.edu.tw,"Computational Chemistry, Bioinformatics, Health Informatics"
+64,Prof. Liu (GINM),clliu@ntu.edu.tw,Multimedia Systems & Networking
+65,Prof. Chen (Academia Sinica),song@iis.sinica.edu.tw,Computer Vision & Pattern Recognition

@@ -1,0 +1,19 @@
+# Keeps the server running on the lab machine (Linux, systemd).
+#   sudo cp profmail.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now profmail
+#   journalctl -u profmail -f        # live logs
+[Unit]
+Description=ProfMail API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+# Change these two to your Linux user and the folder you copied the backend to
+User=YOUR_USER
+WorkingDirectory=/home/YOUR_USER/profmail/backend
+ExecStart=/home/YOUR_USER/profmail/backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 1
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

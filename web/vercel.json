@@ -1,0 +1,8 @@
+{
+  "$comment": "Production site. In Vercel set Root Directory = web, Production Branch = main, and the environment variable VITE_API_URL = your production API address.",
+  "buildCommand": "npx vite build --outDir dist",
+  "outputDirectory": "dist",
+  "headers": [
+    { "source": "/config.js", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
+  ]
+}

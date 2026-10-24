@@ -1,0 +1,11 @@
+# Netlify builds the development site from the GitHub branch "dev" on every push.
+[build]
+  base = "web"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  OUT_DIR = "dist"
+  NODE_VERSION = "20"
+  # The development backend (the lab PC through ngrok)
+  VITE_API_URL = "https://savanna-unparallel-nonenigmatically.ngrok-free.dev"

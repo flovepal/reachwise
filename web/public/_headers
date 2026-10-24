@@ -1,0 +1,3 @@
+# Netlify: always fetch the latest config.js, so a changed server address takes effect at once
+/config.js
+  Cache-Control: no-cache
