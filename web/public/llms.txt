@@ -1,0 +1,17 @@
+# Reachwise Professor Outreach
+
+> Free web app that helps students email professors for international research internships (TEEP and IIPP in Taiwan, research internships abroad) and PhD or master's admission.
+
+- Personalised emails sent from the student's own Gmail, one at a time, with three rotating versions of the first email
+- Follow-ups after 5 days, only to professors who have not replied, in the same thread
+- Reply tracking: same thread, a professor's personal address (matched by name and signature), the spam folder, and bounced emails
+- Works with any free AI (ChatGPT, Gemini, Claude) to write the emails from the student's CV; no paid AI needed
+- Gmail app password stored encrypted; nothing is sent without the student pressing Send
+
+## Guides
+
+- [How to email a professor for a research internship](/how-to-email-a-professor-for-research-internship/)
+- [TEEP internship in Taiwan: how to email a professor](/teep-internship-professor-email/)
+- [IIPP internship in Taiwan: finding and emailing a professor](/iipp-internship/)
+- [Professor not replying? How to follow up](/follow-up-email-to-professor/)
+- [Emailing a professor for PhD or master's admission](/email-professor-for-phd-masters-admission/)

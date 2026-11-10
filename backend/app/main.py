@@ -10,7 +10,6 @@ from pathlib import Path
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from . import jobs
@@ -63,18 +62,7 @@ def public_config():
 
 
 # ---- the website (built into backend/web by `npm run build` in ../web) ------
+# Serves "/", the guide pages and the app at "/app/". Registered last, so API routes win.
 WEB_DIR = Path(__file__).resolve().parents[1] / "web"
 if (WEB_DIR / "index.html").exists():
-    app.mount("/assets", StaticFiles(directory=WEB_DIR / "assets"), name="assets")
-
-    @app.get("/", include_in_schema=False)
-    def website():
-        return FileResponse(WEB_DIR / "index.html", headers={"Cache-Control": "no-cache"})
-
-    @app.get("/favicon.svg", include_in_schema=False)
-    def favicon():
-        return FileResponse(WEB_DIR / "favicon.svg")
-
-    @app.get("/config.js", include_in_schema=False)
-    def site_config():
-        return FileResponse(WEB_DIR / "config.js", media_type="text/javascript", headers={"Cache-Control": "no-cache"})
+    app.mount("/", StaticFiles(directory=WEB_DIR, html=True), name="website")
